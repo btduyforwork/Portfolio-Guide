@@ -17,4 +17,4 @@ Welcome to my portfolio! Here, I document a summary of my featured projects in f
 # 🐍 Python Practice
 | Project Link | Completion Date | Topic covered | Libraries |    
 | :--- | :--- | :--- | :--- |
-| [**Heart Disease EDA**](https://github.com/btduyforwork/Exploratory-Data-Analysis/blob/main/Heart%20Disease%20EDA/heart_disease_EDA.ipynb) | April 2026 |This project focuses on end-to-end data processing, from raw data wrangling to identifying key correlations between clinical risk factors such as Cholesterol, Age, and Max Heart Rate (MaxHR). By leveraging advanced data visualization, the project uncovers critical insights to streamline feature engineering and ensure high-performance predictive modeling.| `pandas`, `seaborn`, `matplotlib`, `numpy`, `sklearn` |
+| [**Linear_Regression_Practice**](https://github.com/btduyforwork/Linear_Regression_Practice) | April 2026 |A simple repository focuses on practicing python and machine learning. This project includes many notebook used for practicing python in learning process.| `machine learning`, `python` |
