@@ -17,4 +17,4 @@ Welcome to my portfolio! Here, I document a summary of my featured projects in f
 # 🐍 Python Practice
 | Project Link | Completion Date | Topic covered | Libraries |    
 | :--- | :--- | :--- | :--- |
-| [**Linear_Regression_Practice**](https://github.com/btduyforwork/Linear_Regression_Practice) | April 2026 | A simple repository focuses on practicing python and machine learning. This project includes many notebook used for practicing python in learning process.| `machine learning`, `python` |
+| [**Linear Regression Practice**](https://github.com/btduyforwork/Linear_Regression_Practice) | April 2026 | A simple repository focuses on practicing python and machine learning. This project includes many notebook used for practicing python in learning process.| `machine learning`, `python` |
